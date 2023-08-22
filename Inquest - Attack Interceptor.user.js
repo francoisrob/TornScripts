@@ -8,6 +8,8 @@
 // @match        https://www.torn.com/loader.php?sid=attack&user2ID=*
 // @grant        none
 // @run-at       document-start
+// @downloadURL  https://github.com/francoisrob/TornScripts/raw/main/Inquest%20-%20Attack%20Interceptor.user.js
+// @updateURL    https://github.com/francoisrob/TornScripts/raw/main/Inquest%20-%20Attack%20Interceptor.user.js
 // ==/UserScript==
 
 (() => {
