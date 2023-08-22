@@ -4,7 +4,8 @@
 // @version      1.1
 // @author       PimpChu- [2259700] | Francois Robbertze
 // @namespace    https://greasyfork.org/en/users/1156949
-// @copyright    MIT
+// @copyright    none
+// @license      MIT
 // @match        https://www.torn.com/loader.php?sid=attack&user2ID=*
 // @grant        none
 // @run-at       document-start
